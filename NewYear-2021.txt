@@ -1,0 +1,8 @@
+RESOLUSI 2021
+Januari 2021             : Mengulangi latihan-latihan bahasa pemrograman.
+Februari 2021            : Latihan bagaimana cara membuat website sederhana.
+Maret - April 2021       : Belajar struktur kerangka program untuk menyusun sebuah website.
+Mei - JuLi 2021          : Pendalaman pengetahuan tentang bahasa-bahasa pemrograman HTML, CSS + SASS, PHP, MYSQL, JAVASCRIPT dll.
+Agustus - Oktober 2021   : Menerapkan pengetahuan untuk membuat website profile bisnis kolektif secara gratis.
+November - Desember 2021 : Hosting & launching website secara online.
+2022 --> Pemasaran & evaluasi progress pencapaian.
